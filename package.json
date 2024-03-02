@@ -1,0 +1,26 @@
+{
+  "name": "Nobsidian",
+  "displayName": "Obsidian Night",
+  "description": "",
+  "version": "0.0.2",
+  "icon": "media/logo.png",
+  "publisher": "guiqin",
+  "repository": {
+    "url": "https://github.com/"
+  },
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "contrast",
+        "uiTheme": "vs-dark",
+        "path": "./themes/dram-color-theme.json"
+      }
+    ]
+  }
+}
