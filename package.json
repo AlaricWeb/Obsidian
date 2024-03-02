@@ -6,7 +6,7 @@
   "icon": "media/logo.png",
   "publisher": "guiqin",
   "repository": {
-    "url": "https://github.com/"
+    "url": "https://artistcode@dev.azure.com/artistcode/bsidian/_git/bsidian"
   },
   "engines": {
     "vscode": "^1.85.0"
