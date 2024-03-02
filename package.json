@@ -1,12 +1,12 @@
 {
-  "name": "Nobsidian",
-  "displayName": "Obsidian Night",
+  "name": "alaric",
+  "displayName": "alaric Obsidian Night",
   "description": "",
-  "version": "0.0.2",
+  "version": "0.0.1",
   "icon": "media/logo.png",
-  "publisher": "guiqin",
+  "publisher": "AlaricWeb",
   "repository": {
-    "url": "https://artistcode@dev.azure.com/artistcode/bsidian/_git/bsidian"
+    "url": "https://github.com/AlaricWeb/obsidian.git"
   },
   "engines": {
     "vscode": "^1.85.0"
